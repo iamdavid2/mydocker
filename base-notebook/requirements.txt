@@ -1,0 +1,3 @@
+pyodbc
+cx_Oracle
+openpyxl
